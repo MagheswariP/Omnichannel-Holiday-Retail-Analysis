@@ -15,3 +15,5 @@ I explored how each channel contributes to the bigger picture, identified the pa
 
 The dataset contained more than 40,000 records across multiple tables.  I used PowerBI  to clean, transform, and model the data using Power Query and DAX.
 
+-<a href="https://app.powerbi.com/view?r=eyJrIjoiYzAyNjJjNTUtOTMyNy00MzI2LThkYmYtNzI0OTgxOWEyMTZkIiwidCI6IjQ2NTRiNmYxLTBlNDctNDU3OS1hOGExLTAyZmU5ZDk0M2M3YiIsImMiOjl9">View Dashboard</a> 
+
